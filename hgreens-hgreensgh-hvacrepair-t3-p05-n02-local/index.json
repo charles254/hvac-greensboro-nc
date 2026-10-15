@@ -1,0 +1,24 @@
+{
+  "nodeCode": "HGREENS-HGREENSGH-HVACREPAIR-T3-P05-N02-LOCAL",
+  "slug": "hgreens-hgreensgh-hvacrepair-t3-p05-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Condensate Drain Float Switch Protection & Algae Line Clearing in Greensboro",
+  "canonical": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t3-p05-n02-local/",
+  "primaryEntity": "Programmable Smart Thermostat Wi-Fi Integration & Energy Scheduling",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t2-p02-n02-local/",
+      "anchor": "Whole-Home Dehumidification & Piedmont Triad Indoor Air Quality Solutions",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacgreensboronc.net/",
+    "https://hvacgreensboronc.net/about/",
+    "https://hvacgreensboronc.net/duct-cleaning-greensboro-nc/",
+    "https://hvacgreensboronc.net/ac-installation-greensboro-nc/",
+    "https://hvacgreensboronc.net/heat-pump-installation-greensboro-nc/"
+  ]
+}

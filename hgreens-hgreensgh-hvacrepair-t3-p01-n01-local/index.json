@@ -1,0 +1,25 @@
+{
+  "nodeCode": "HGREENS-HGREENSGH-HVACREPAIR-T3-P01-N01-LOCAL",
+  "slug": "hgreens-hgreensgh-hvacrepair-t3-p01-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "High Point NC Residential HVAC Repair & Furniture Capital Climate Care",
+  "canonical": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t3-p01-n01-local/",
+  "primaryEntity": "Multi-Zone Ductless Mini-Split Inverter Heat Pumps for Historic Triad Architecture",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t2-p01-n01-local/",
+      "anchor": "Greensboro NC Heat Pump Repair & Cold-Climate Inverter Diagnostics",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacgreensboronc.net/mini-split-installation-greensboro-nc/",
+    "https://hvacgreensboronc.net/",
+    "https://hvacgreensboronc.net/emergency-hvac-greensboro/",
+    "https://hvacgreensboronc.net/ac-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/heat-pump-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/hvac-maintenance-greensboro-nc/"
+  ]
+}

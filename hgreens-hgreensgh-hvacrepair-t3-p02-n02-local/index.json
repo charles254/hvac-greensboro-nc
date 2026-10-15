@@ -1,0 +1,24 @@
+{
+  "nodeCode": "HGREENS-HGREENSGH-HVACREPAIR-T3-P02-N02-LOCAL",
+  "slug": "hgreens-hgreensgh-hvacrepair-t3-p02-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Oak Ridge NC Air Conditioning Maintenance & Attic Duct Heat Defense",
+  "canonical": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t3-p02-n02-local/",
+  "primaryEntity": "Dual Run Capacitor Microfarad Tolerance & Contactor Contact Pit Remediation",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t2-p01-n02-local/",
+      "anchor": "High-Efficiency Gas Furnace Safety, AFUE Ratings & Heat Exchanger Testing",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacgreensboronc.net/ac-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/heat-pump-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/hvac-maintenance-greensboro-nc/",
+    "https://hvacgreensboronc.net/",
+    "https://hvacgreensboronc.net/duct-cleaning-greensboro-nc/"
+  ]
+}

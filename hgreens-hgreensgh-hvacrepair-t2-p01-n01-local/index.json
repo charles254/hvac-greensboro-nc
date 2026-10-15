@@ -1,0 +1,26 @@
+{
+  "nodeCode": "HGREENS-HGREENSGH-HVACREPAIR-T2-P01-N01-LOCAL",
+  "slug": "hgreens-hgreensgh-hvacrepair-t2-p01-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Greensboro NC Heat Pump Repair & Cold-Climate Inverter Diagnostics",
+  "canonical": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t2-p01-n01-local/",
+  "primaryEntity": "Cold-Climate Inverter Variable-Speed Heat Pump Technology",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t1-p00-n01-local/",
+      "anchor": "Greensboro NC HVAC Repair & Energy-Efficient Heat Pump Solutions",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacgreensboronc.net/heat-pump-installation-greensboro-nc/",
+    "https://hvacgreensboronc.net/heat-pump-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/about/",
+    "https://hvacgreensboronc.net/furnace-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/duct-cleaning-greensboro-nc/",
+    "https://hvacgreensboronc.net/ac-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/"
+  ]
+}

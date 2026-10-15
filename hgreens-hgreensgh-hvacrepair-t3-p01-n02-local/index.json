@@ -1,0 +1,24 @@
+{
+  "nodeCode": "HGREENS-HGREENSGH-HVACREPAIR-T3-P01-N02-LOCAL",
+  "slug": "hgreens-hgreensgh-hvacrepair-t3-p01-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Kernersville NC Dual-Fuel Hybrid Heating Staging & Balance Point Optimization",
+  "canonical": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t3-p01-n02-local/",
+  "primaryEntity": "Whole-Home High-Capacity Dehumidifier Integration for Humid Carolina Summers",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t2-p01-n01-local/",
+      "anchor": "Greensboro NC Heat Pump Repair & Cold-Climate Inverter Diagnostics",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacgreensboronc.net/",
+    "https://hvacgreensboronc.net/emergency-hvac-greensboro/",
+    "https://hvacgreensboronc.net/ac-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/heat-pump-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/hvac-maintenance-greensboro-nc/"
+  ]
+}

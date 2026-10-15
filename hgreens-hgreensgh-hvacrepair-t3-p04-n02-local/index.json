@@ -1,0 +1,23 @@
+{
+  "nodeCode": "HGREENS-HGREENSGH-HVACREPAIR-T3-P04-N02-LOCAL",
+  "slug": "hgreens-hgreensgh-hvacrepair-t3-p04-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Evaporator Coil Refrigerant Leak Detection & Electronic Halogen Sniffing",
+  "canonical": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t3-p04-n02-local/",
+  "primaryEntity": "Aeroseal® Computerized Duct Leakage Diagnostics & Mastic Sealing",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t2-p02-n01-local/",
+      "anchor": "Crawl Space Ductwork Sealing, Mastic Insulation & Airflow Static Balancing",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacgreensboronc.net/duct-cleaning-greensboro-nc/",
+    "https://hvacgreensboronc.net/hvac-maintenance-greensboro-nc/",
+    "https://hvacgreensboronc.net/",
+    "https://hvacgreensboronc.net/about/"
+  ]
+}

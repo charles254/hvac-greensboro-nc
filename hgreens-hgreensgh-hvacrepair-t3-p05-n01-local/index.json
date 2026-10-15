@@ -1,0 +1,24 @@
+{
+  "nodeCode": "HGREENS-HGREENSGH-HVACREPAIR-T3-P05-N01-LOCAL",
+  "slug": "hgreens-hgreensgh-hvacrepair-t3-p05-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Blower Motor ECM Control Module Diagnostics & Static Airflow Optimization",
+  "canonical": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t3-p05-n01-local/",
+  "primaryEntity": "Seasonal Chemical Condenser Coil Wash & Heat Transfer Optimization",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t2-p02-n02-local/",
+      "anchor": "Whole-Home Dehumidification & Piedmont Triad Indoor Air Quality Solutions",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacgreensboronc.net/hvac-maintenance-greensboro-nc/",
+    "https://hvacgreensboronc.net/",
+    "https://hvacgreensboronc.net/about/",
+    "https://hvacgreensboronc.net/duct-cleaning-greensboro-nc/",
+    "https://hvacgreensboronc.net/ac-installation-greensboro-nc/"
+  ]
+}

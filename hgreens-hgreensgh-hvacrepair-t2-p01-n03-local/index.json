@@ -1,0 +1,25 @@
+{
+  "nodeCode": "HGREENS-HGREENSGH-HVACREPAIR-T2-P01-N03-LOCAL",
+  "slug": "hgreens-hgreensgh-hvacrepair-t2-p01-n03-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Ductless Mini-Split Heat Pump Installation across Piedmont Triad Homes",
+  "canonical": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t2-p01-n03-local/",
+  "primaryEntity": "North Carolina State Board of Examiners of Plumbing and Heating (NCBEEC) Licensing",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t1-p00-n01-local/",
+      "anchor": "Greensboro NC HVAC Repair & Energy-Efficient Heat Pump Solutions",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacgreensboronc.net/about/",
+    "https://hvacgreensboronc.net/furnace-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/duct-cleaning-greensboro-nc/",
+    "https://hvacgreensboronc.net/ac-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/mini-split-installation-greensboro-nc/",
+    "https://hvacgreensboronc.net/"
+  ]
+}

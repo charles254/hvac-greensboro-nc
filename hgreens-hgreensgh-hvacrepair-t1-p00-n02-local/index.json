@@ -1,0 +1,26 @@
+{
+  "nodeCode": "HGREENS-HGREENSGH-HVACREPAIR-T1-P00-N02-LOCAL",
+  "slug": "hgreens-hgreensgh-hvacrepair-t1-p00-n02-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "24/7 Emergency AC Repair & Heating Diagnostics in Guilford County",
+  "canonical": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t1-p00-n02-local/",
+  "primaryEntity": "ACCA Manual J® Residential Load Calculation Standards",
+  "outgoingLinks": [
+    {
+      "url": "https://hvacgreensboronc.net/ac-repair-greensboro-nc/",
+      "anchor": "ac repair greensboro nc",
+      "rel": "nofollow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://hvacgreensboronc.net/ac-installation-greensboro-nc/",
+    "https://hvacgreensboronc.net/heat-pump-installation-greensboro-nc/",
+    "https://hvacgreensboronc.net/heat-pump-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/about/",
+    "https://hvacgreensboronc.net/furnace-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/duct-cleaning-greensboro-nc/",
+    "https://hvacgreensboronc.net/"
+  ]
+}

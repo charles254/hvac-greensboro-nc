@@ -1,0 +1,23 @@
+{
+  "nodeCode": "HGREENS-HGREENSGH-HVACREPAIR-T3-P03-N01-LOCAL",
+  "slug": "hgreens-hgreensgh-hvacrepair-t3-p03-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Jamestown NC Historic Home Heating Triage & Compact Ductwork Retrofits",
+  "canonical": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t3-p03-n01-local/",
+  "primaryEntity": "Heat Pump Demand Defrost Board & Sensor Thermistor Calibration",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t2-p01-n03-local/",
+      "anchor": "Ductless Mini-Split Heat Pump Installation across Piedmont Triad Homes",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacgreensboronc.net/heat-pump-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/hvac-maintenance-greensboro-nc/",
+    "https://hvacgreensboronc.net/",
+    "https://hvacgreensboronc.net/duct-cleaning-greensboro-nc/"
+  ]
+}

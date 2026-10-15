@@ -1,0 +1,25 @@
+{
+  "nodeCode": "HGREENS-HGREENSGH-HVACREPAIR-T2-P02-N01-LOCAL",
+  "slug": "hgreens-hgreensgh-hvacrepair-t2-p02-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Crawl Space Ductwork Sealing, Mastic Insulation & Airflow Static Balancing",
+  "canonical": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t2-p02-n01-local/",
+  "primaryEntity": "Borescopic Gas Furnace Heat Exchanger Crack & Carbon Monoxide Testing",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t1-p00-n02-local/",
+      "anchor": "24/7 Emergency AC Repair & Heating Diagnostics in Guilford County",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacgreensboronc.net/furnace-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/duct-cleaning-greensboro-nc/",
+    "https://hvacgreensboronc.net/ac-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/mini-split-installation-greensboro-nc/",
+    "https://hvacgreensboronc.net/",
+    "https://hvacgreensboronc.net/emergency-hvac-greensboro/"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "nodeCode": "HGREENS-HGREENSGH-HVACREPAIR-T3-P04-N01-LOCAL",
+  "slug": "hgreens-hgreensgh-hvacrepair-t3-p04-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "AC Compressor Contactor Pitting & Dual Run Capacitor Microfarad Testing",
+  "canonical": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t3-p04-n01-local/",
+  "primaryEntity": "MERV 13 Media Air Filtration & Heavy Pine Pollen Defense",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t2-p02-n01-local/",
+      "anchor": "Crawl Space Ductwork Sealing, Mastic Insulation & Airflow Static Balancing",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacgreensboronc.net/",
+    "https://hvacgreensboronc.net/duct-cleaning-greensboro-nc/",
+    "https://hvacgreensboronc.net/hvac-maintenance-greensboro-nc/",
+    "https://hvacgreensboronc.net/about/"
+  ]
+}

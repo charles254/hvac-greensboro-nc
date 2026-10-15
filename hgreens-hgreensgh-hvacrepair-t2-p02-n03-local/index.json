@@ -1,0 +1,24 @@
+{
+  "nodeCode": "HGREENS-HGREENSGH-HVACREPAIR-T2-P02-N03-LOCAL",
+  "slug": "hgreens-hgreensgh-hvacrepair-t2-p02-n03-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "NC State Mechanical Licensing, City of Greensboro Permits & Duke Energy Rebates",
+  "canonical": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t2-p02-n03-local/",
+  "primaryEntity": "Electronic Expansion Valve (EEV) & Low-GWP A2L Refrigerant Transition",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t1-p00-n02-local/",
+      "anchor": "24/7 Emergency AC Repair & Heating Diagnostics in Guilford County",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacgreensboronc.net/ac-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/mini-split-installation-greensboro-nc/",
+    "https://hvacgreensboronc.net/",
+    "https://hvacgreensboronc.net/emergency-hvac-greensboro/",
+    "https://hvacgreensboronc.net/heat-pump-repair-greensboro-nc/"
+  ]
+}

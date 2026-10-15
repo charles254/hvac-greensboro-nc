@@ -1,0 +1,25 @@
+{
+  "nodeCode": "HGREENS-HGREENSGH-HVACREPAIR-T1-P00-N01-LOCAL",
+  "slug": "hgreens-hgreensgh-hvacrepair-t1-p00-n01-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "Greensboro NC HVAC Repair & Energy-Efficient Heat Pump Solutions",
+  "canonical": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t1-p00-n01-local/",
+  "primaryEntity": "Duke Energy Smart $aver® Residential HVAC Rebate Program",
+  "outgoingLinks": [
+    {
+      "url": "https://hvacgreensboronc.net/",
+      "anchor": "licensed hvac repair greensboro nc",
+      "rel": "nofollow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://hvacgreensboronc.net/",
+    "https://hvacgreensboronc.net/ac-installation-greensboro-nc/",
+    "https://hvacgreensboronc.net/heat-pump-installation-greensboro-nc/",
+    "https://hvacgreensboronc.net/heat-pump-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/about/",
+    "https://hvacgreensboronc.net/furnace-repair-greensboro-nc/"
+  ]
+}

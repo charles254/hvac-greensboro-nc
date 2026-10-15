@@ -1,0 +1,25 @@
+{
+  "nodeCode": "HGREENS-HGREENSGH-HVACREPAIR-T3-P06-N02-LOCAL",
+  "slug": "hgreens-hgreensgh-hvacrepair-t3-p06-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "MERV 11 to 16 Filtration & Whole-Home Media Cleaners for Carolina Allergies",
+  "canonical": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t3-p06-n02-local/",
+  "primaryEntity": "Residential Air Balancing & Static Pressure Optimization Protocols",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-greensboro-nc/hgreens-hgreensgh-hvacrepair-t2-p02-n03-local/",
+      "anchor": "NC State Mechanical Licensing, City of Greensboro Permits & Duke Energy Rebates",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacgreensboronc.net/duct-cleaning-greensboro-nc/",
+    "https://hvacgreensboronc.net/",
+    "https://hvacgreensboronc.net/ac-installation-greensboro-nc/",
+    "https://hvacgreensboronc.net/heat-pump-installation-greensboro-nc/",
+    "https://hvacgreensboronc.net/heat-pump-repair-greensboro-nc/",
+    "https://hvacgreensboronc.net/about/"
+  ]
+}
